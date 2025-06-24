@@ -12,21 +12,21 @@ Me chamo Amanda, tenho 17 anos, sou estudante do ensino médio, atualmente cursa
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/">
+    <a href="https://www.youtube.com/@amanda00-lgtm">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/?tab=repositories&sort=stargazers">
+    <a href="https://github.com/@amanda00-lgtm?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/?tab=followers">
+    <a href="https://github.com/@amanda00-lgtm?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -170,5 +170,5 @@ Me chamo Amanda, tenho 17 anos, sou estudante do ensino médio, atualmente cursa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda00-lgtm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
